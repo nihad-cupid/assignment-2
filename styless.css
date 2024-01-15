@@ -1,0 +1,41 @@
+header{
+    margin-left: 135px;
+    margin-right: 135px;
+}
+.container-nav{
+    font-family: 'Mulish', sans-serif;
+    margin-top: 50px;
+}
+.logo{
+    display: flex;
+    gap: 16px;
+    border: 5px solid blue;
+    height: 56.008px;
+}
+#pic{
+    width: 48px;
+    height: 56.008px;
+    flex-shrink: 0;
+}
+#hero{
+    color: #131318;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    }
+#travel{
+    color: #FF5400;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    height: 45px;
+    width: 201px;
+    margin-top: 5px;
+}
+.list{
+    display: flex;
+    gap: 5px;
+    list-style: none;
+}
